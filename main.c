@@ -1,6 +1,6 @@
 //
 //  main.c
-//  argumentos_cortos
+//  Actividad 4: Comunicación entre procesos
 //
 //  Created by Carla Pérez Gavilán on 10/09/2020.
 //  Copyright (c) 2020 Carla Pérez Gavilán . All rights reserved.
